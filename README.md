@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FluxCapacitor1
 - 👀 I’m interested in Coding, Kiteboarding and Airplanes
-- 💼 Currently I work as a Analytics engineer for a private university
-- 🌱 I’m currently learning ML with Python, Microsoft Fabric. For my side project I'm building a app to run on raspberry pi that would assist farmers with precision agriculture.
+- 💼 Currently I work as a Data Engineer
+- 🌱 I currently work with Python and Jupyter with the main cloud platforms being Microsoft and Amazon
 - 📫 How to reach me hmmmm....dunno yet find me
 
 <!---
