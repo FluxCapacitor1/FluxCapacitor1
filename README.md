@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FluxCapacitor1
-- 👀 I’m interested in Coding, Kiteboarding and Aerospace
-- 💼 Currently I work as a Data Engineer
-- 🌱 I currently work with Python and Jupyter with the main cloud platforms being Microsoft and Amazon
-- 📫 How to reach me hmmmm....dunno yet find me
+👋 Hi, I’m @FluxCapacitor1
+🚀 Passionate about Coding, Kiteboarding, and all things Aerospace
+💼 Data Engineer, building data pipelines in AWS, leveraging cloud infrastructure, and containerized applications
+🌱 I love tackling complex problems and finding elegant, simple solutions
+📫 How to reach me? Well, that's a mystery for now—stay tuned!
 
 <!---
 FluxCapacitor1/FluxCapacitor1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
